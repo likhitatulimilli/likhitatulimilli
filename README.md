@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Likhita Tulimilli
+🎓 Currently pursuing my MS in Computer Science at the University of South Florida (Graduating May 2025).
+💼 Previously an SAP ABAP Developer at Hitachi Vantara and now a Software Engineering Intern at Treevah.
+🌐 Passionate about full-stack development, cloud computing, and AI-powered solutions.
 
-<!--
-**likhitatulimilli/likhitatulimilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+Craft seamless frontend + backend experiences with React, Node.js, Express, Flask, and Django
 
-Here are some ideas to get you started:
+Build smart solutions with Machine Learning, NLP, and BERT-based models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Deploy and scale apps on Azure and AWS
+
+Design dashboards & tools that turn data into actionable insights
+
+🔧 Current Projects
+Web app development with secure login using Azure AD B2C
+
+Meeting Transcript Summarizer powered by NLP + Flask
+
+Restaurant Management System (DineIn) built with React & Node.js
+
+🛠 Tech Stack
+Languages: Python, Java, JavaScript, TypeScript, C/C++
+Frameworks: React, Flask, Spring Boot, SAP ABAP
+Cloud: Azure, AWS
+DBs: PostgreSQL, MongoDB, MySQL
+Tools: Power BI, Git, Figma, DevOps
+
+📫 Feel free to connect with me on LinkedIn or reach out at likhitatullimilli.9@gmail.com
+Let’s build something awesome together!
