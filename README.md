@@ -1,6 +1,6 @@
 👋 Hi, I'm Likhita Tulimilli
 🎓 Currently pursuing my MS in Computer Science at the University of South Florida (Graduating May 2025).
-💼 Previously an SAP ABAP Developer at Hitachi Vantara and now a Software Engineering Intern at Treevah.
+💼 Previously an Associate Software engineer at Hitachi Vantara and now a Software Engineer at Treevah.
 🌐 Passionate about full-stack development, cloud computing, and AI-powered solutions.
 
 🚀 What I Do
@@ -17,7 +17,7 @@ Web app development with secure login using Azure AD B2C
 
 Meeting Transcript Summarizer powered by NLP + Flask
 
-Restaurant Management System (DineIn) built with React & Node.js
+Profguide
 
 🛠 Tech Stack
 Languages: Python, Java, JavaScript, TypeScript, C/C++
