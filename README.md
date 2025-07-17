@@ -12,4 +12,4 @@ QuickCart – Real-time e-commerce dashboard with secure order flows
 
 Diabetic Retinopathy Detection – ML model for clinical-grade image classification
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
