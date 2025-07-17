@@ -1,30 +1,15 @@
-👋 Hi, I'm Likhita Tulimilli
-🎓 Currently pursuing my MS in Computer Science at the University of South Florida (Graduating May 2025).
-💼 Previously an Associate Software engineer at Hitachi Vantara and now a Software Engineer at Treevah.
-🌐 Passionate about full-stack development, cloud computing, and AI-powered solutions.
+👋 Hi there! I'm Likhita Tulimilli, a passionate Software Engineer with 3.5+ years of experience building scalable backend systems and modern full-stack applications.
 
-🚀 What I Do
-Craft seamless frontend + backend experiences with React, Node.js, Express, Flask, and Django
+🎓 I recently completed my Master’s in Computer Science from the University of South Florida, where I deepened my expertise in software engineering, data systems, and AI.
 
-Build smart solutions with Machine Learning, NLP, and BERT-based models
+🔧 I specialize in Java, Spring Boot, and React, and enjoy turning complex problems into intuitive, high-performance solutions through agile and DevOps practices.
 
-Deploy and scale apps on Azure and AWS
+📌 Featured Projects:
 
-Design dashboards & tools that turn data into actionable insights
+EduNest – University portal with role-based access and modular UI
 
-🔧 Current Projects
-Web app development with secure login using Azure AD B2C
+QuickCart – Real-time e-commerce dashboard with secure order flows
 
-Meeting Transcript Summarizer powered by NLP + Flask
+Diabetic Retinopathy Detection – ML model for clinical-grade image classification
 
-Profguide
-
-🛠 Tech Stack
-Languages: Python, Java, JavaScript, TypeScript, C/C++
-Frameworks: React, Flask, Spring Boot, SAP ABAP
-Cloud: Azure, AWS
-DBs: PostgreSQL, MongoDB, MySQL
-Tools: Power BI, Git, Figma, DevOps
-
-📫 Feel free to connect with me on LinkedIn or reach out at likhitatullimilli.9@gmail.com
-Let’s build something awesome together!
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
